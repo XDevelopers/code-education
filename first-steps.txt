@@ -1,0 +1,31 @@
+Code Education
+
+
+https://code.education/2017/06/pontape-inicial-com-angular-4/
+ 
+- Instalar NodeJs;
+
+- Prompt>
+# - Instala a ferramenta que facilita a criação de novos projetos angular;
+-> npm install -g @angular/cli
+
+# - Criará um novo projeto Angular com nome citado abaixo;
+-> ng new angular-hello-world
+
+# - Instalará todas as dependências necessárias para executar o projeto recem criado;
+-> npm install
+
+# - Executar um server local para emular e executar a applicação recem criada;
+-> ng serve
+
+#
+- Será criado um Array e posteriomente adicionado um módulo Angular a mais para se trabalhar com formulários;
+- Após instalação do módulo para formulários a aplicação já fica funcionando...
+
+----------------------------------------------------------------
+Lesson 002 - Criando componentes com Angular 4
+
+https://code.education/2017/06/criando-componentes-com-angular-4/
+https://www.youtube.com/watch?v=PYym3XLE5uA
+
+Steps
