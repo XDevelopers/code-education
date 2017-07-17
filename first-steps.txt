@@ -29,3 +29,18 @@ https://code.education/2017/06/criando-componentes-com-angular-4/
 https://www.youtube.com/watch?v=PYym3XLE5uA
 
 Steps
+
+# command to generate a new component 'task-list'
+-> ng g component task-list
+
+# foi removido o conteudo da task-list para o componente 
+que funciona independente;
+
+
+----------------------------------------------------------------
+Lesson 003 - Propriedades reativas ou property binding no Angular 4
+
+https://code.education/2017/06/propriedades-reativas-ou-property-binding-no-angular/
+https://www.youtube.com/watch?v=cFBXo--bhic
+
+Steps
