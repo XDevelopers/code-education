@@ -44,3 +44,11 @@ https://code.education/2017/06/propriedades-reativas-ou-property-binding-no-angu
 https://www.youtube.com/watch?v=cFBXo--bhic
 
 Steps
+
+----------------------------------------------------------------
+Lesson 004 - Como filtrar dados no Angular 4
+
+https://code.education/2017/06/como-filtrar-dados-no-angular-4/
+https://www.youtube.com/watch?v=qesvv6aZXeU
+
+Steps
